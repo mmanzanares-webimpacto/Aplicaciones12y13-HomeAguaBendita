@@ -1,0 +1,11 @@
+{
+    "store.home.webimpacto": {
+        "allowed": ["carouselmarta",
+                    "galeriamarta",
+                    "bannersmarta",
+                    "app12marta",
+                    "app13marta",
+                    "app14marta",
+                    "app15marta"]
+    }
+}
